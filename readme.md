@@ -10,10 +10,7 @@
 [![Badges](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Badges](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![Badges](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-![Cahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahya126&show_icons=true&theme=prussian)
 
-### DEMO APLIKASI [HALAMAN DEMO](https://demosmartschool.exampremium.co.id/)
-<img src="https://user-images.githubusercontent.com/28720491/127005728-c0211ba0-0648-4fd6-94b7-2bd49aafe2e0.png" alt="Girl in a jacket" width="600" height="350">
 
 **************************
 
